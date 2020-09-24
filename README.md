@@ -4,6 +4,6 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 
 | Research Paper Name                                                                  | URL                              | Progress (\*/10) |
 |--------------------------------------------------------------------------------------|----------------------------------|------------------|
-| Jekyll: Attacking Medical Image Diagnostics using Deep Generative Models             | [Link](https://people.cs.vt.edu/vbimal/publications/jekyll-eurosp20.pdf) |      6|
+| Proximal Policy Optimization with Mixed Distributed Training     | [Link](https://arxiv.org/pdf/1907.06479.pdf) |      0|
 | Emergence of Locomotion Behaviours in Rich Environments   | [Link](https://arxiv.org/pdf/1707.02286.pdf) |      0|
 

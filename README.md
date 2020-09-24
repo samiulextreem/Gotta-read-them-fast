@@ -7,4 +7,5 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 | Proximal Policy Optimization with Mixed Distributed Training     | [Link](https://arxiv.org/pdf/1907.06479.pdf) |      0|
 | Emergence of Locomotion Behaviours in Rich Environments   | [Link](https://arxiv.org/pdf/1707.02286.pdf) |      0|
 | Sample-based Distributional Policy Gradient  | [Link](https://arxiv.org/pdf/1707.02286.pdf) |      0|
+|Sub-policy Adaptation for Hierarchical Reinforcement Learning |[Link](https://openreview.net/forum?id=ByeWogStDS) |0|
 

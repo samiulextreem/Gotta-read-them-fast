@@ -9,5 +9,5 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 | Sample-based Distributional Policy Gradient  | [Link](https://arxiv.org/pdf/1707.02286.pdf) |      0|
 |Sub-policy Adaptation for Hierarchical Reinforcement Learning |[Link](https://openreview.net/forum?id=ByeWogStDS) |0|
 |Meta Learning Shared Hierarchies|[Link](https://arxiv.org/pdf/1710.09767.pdf)|0|
-|Deep Ensemble Reinforcement Learning with Multiple Deep Deterministic Policy Gradient Algorithm||https://www.hindawi.com/journals/mpe/2020/4275623/#abstract| |0|
+|Deep Ensemble Reinforcement Learning with Multiple Deep Deterministic Policy Gradient Algorithm|[Link]https://www.hindawi.com/journals/mpe/2020/4275623/#abstract |0|
 

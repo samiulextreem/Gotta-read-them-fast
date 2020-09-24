@@ -8,4 +8,5 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 | Emergence of Locomotion Behaviours in Rich Environments   | [Link](https://arxiv.org/pdf/1707.02286.pdf) |      0|
 | Sample-based Distributional Policy Gradient  | [Link](https://arxiv.org/pdf/1707.02286.pdf) |      0|
 |Sub-policy Adaptation for Hierarchical Reinforcement Learning |[Link](https://openreview.net/forum?id=ByeWogStDS) |0|
+|Meta Learning Shared Hierarchies|[Link](https://arxiv.org/pdf/1710.09767.pdf)|0|
 

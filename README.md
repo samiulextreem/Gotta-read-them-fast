@@ -13,4 +13,5 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Investigating Human Priors for Playing Video Games|[Link](https://arxiv.org/pdf/1802.10217.pdf)|0
 |IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures|[Link](https://arxiv.org/pdf/1802.01561.pdf)|0
 |Meta-Learning through Hebbian Plasticity in Random Networks|[Link](https://arxiv.org/pdf/2007.02686.pdf)|0
+|One Policy to Control Them All:Shared Modular Policies for Agent-Agnostic Control|[Link](https://wenlong.page/modular-rl/)|0
 

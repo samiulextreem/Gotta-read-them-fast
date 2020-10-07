@@ -17,5 +17,5 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Learning Multi-Level Hierarchies with Hindsight|[Link](https://arxiv.org/pdf/1712.00948.pdf)|0
 |NerveNet: Learning Structured Policy with Graph Neural Networks|[Link](https://openreview.net/pdf?id=S1sqHMZCb)|0
 |NerveNet: Learning Structured Policy with Graph Neural Networks|[Link](https://openreview.net/pdf?id=S1sqHMZCb)|0
-|One Policy to Control Them All:Shared Modular Policies for Agent-Agnostic Control|[Link](http://mrl.snu.ac.kr/publications/ProjectMorphCon/MorphCon.html)|0
+|Learning Body Shape Variation in Physics-based Characters|[Link](http://mrl.snu.ac.kr/publications/ProjectMorphCon/MorphCon.html)|0
 

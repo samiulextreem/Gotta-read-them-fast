@@ -18,4 +18,5 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |NerveNet: Learning Structured Policy with Graph Neural Networks|[Link](https://openreview.net/pdf?id=S1sqHMZCb)|0
 |NerveNet: Learning Structured Policy with Graph Neural Networks|[Link](https://openreview.net/pdf?id=S1sqHMZCb)|0
 |Learning Body Shape Variation in Physics-based Characters|[Link](http://mrl.snu.ac.kr/publications/ProjectMorphCon/MorphCon.html)|0
+|Implementation Matters in Deep RL: A Case Study on PPO and TRPO|[Link](https://openreview.net/forum?id=r1etN1rtPB)|0
 

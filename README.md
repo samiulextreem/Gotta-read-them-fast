@@ -20,5 +20,5 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Learning Body Shape Variation in Physics-based Characters|[Link](http://mrl.snu.ac.kr/publications/ProjectMorphCon/MorphCon.html)|0
 |Implementation Matters in Deep RL: A Case Study on PPO and TRPO|[Link](https://openreview.net/forum?id=r1etN1rtPB)|0
 |Divide-and-Conquer Reinforcement Learning|[Link](https://dibyaghosh.com/dnc/)|0
-|Li-ion Battery Fault Detection in Large Packs Using Force and Gas Sensors|[Link](https://arxiv.org/pdf/2010.13519.pdf)|0
+|Li-ion Battery Fault Detection in Large Packs Using Force and Gas Sensors|[Link](https://arxiv.org/pdf/2010.13519.pdf)|10
 

@@ -23,3 +23,4 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Li-ion Battery Fault Detection in Large Packs Using Force and Gas Sensors|[Link](https://arxiv.org/pdf/2010.13519.pdf)|10
 |State-of-Charge Estimation of a Li-Ion Battery using Deep Forward Neural Networks|[Link](https://arxiv.org/abs/2009.09543)|10
 |Safe Reinforcement Learning for Emergency LoadShedding of Power Systems|[Link](https://arxiv.org/abs/2011.09664)|0
+|Exploration via Flow-Based Intrinsic Rewards |[Link](https://openreview.net/pdf?id=SkxzSgStPS)|0

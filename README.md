@@ -19,4 +19,6 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Data-Driven Permanent Magnet Temperature Estimation in Synchronous Motors with Supervised Machine Learning|[Link](https://arxiv.org/pdf/2001.06246.pdf)|0
 |Controller Design for Electrical Drives by Deep Reinforcement Learning: A Proof of Concept|[Link](https://www.researchgate.net/profile/Oliver_Wallscheid/publication/332937959_Controller_Design_for_Electrical_Drives_by_Deep_Reinforcement_Learning_a_Proof_of_Concept/links/5d247f0a299bf1547ca523a9/Controller-Design-for-Electrical-Drives-by-Deep-Reinforcement-Learning-a-Proof-of-Concept.pdf)|0
 |A Deep Learning Framework for Malware Classification|[Link](https://sci-hub.se/10.4018/ijdcf.2020010105)|10
+|Estimating Electric Motor Temperatures with Deep Residual Machine Learning|[Link](https://ieeexplore.ieee.org/abstract/document/9296842)|10
+
 

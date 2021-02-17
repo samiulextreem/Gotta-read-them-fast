@@ -19,5 +19,7 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Design and application of adaptive PID controller based on asynchronous advantage actor–critic learning method|[Link](https://link.springer.com/article/10.1007/s11276-019-02225-x)|0
 |Reinforcement Learning and Deep Neural Networks for PI Controller Tuning|[Link](https://www.sciencedirect.com/science/article/pii/S2405896319308055)|0
 |Embedded Adaptive Fuzzy Controller Based on Reinforcement Learning for DC Motor with Flexible Shaft|[Link](https://sci-hub.do/https://link.springer.com/article/10.1007/s13369-015-1752-4)|0
-
+|Vulnerability of deep neural networks for detecting
+COVID-19 cases from chest X-ray images to universal
+adversarial attacks|[Link](https://arxiv.org/ftp/arxiv/papers/2005/2005.11061.pdf)|10
 

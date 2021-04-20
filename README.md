@@ -6,7 +6,7 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |--------------------------------------------------------------------------------------|----------------------------------|------------------|
 |Investigating Human Priors for Playing Video Games|[Link](https://arxiv.org/pdf/1802.10217.pdf)|0
 |One Policy to Control Them All:Shared Modular Policies for Agent-Agnostic Control|[Link](https://wenlong.page/modular-rl/)|0
-|Implementation Matters in Deep RL: A Case Study on PPO and TRPO|[Link](https://openreview.net/forum?id=r1etN1rtPB)|0
+|Implementation Matters in Deep RL: A Case Study on PPO and TRPO|[Link](https://openreview.net/forum?id=r1etN1rtPB)|10
 |Li-ion Battery Fault Detection in Large Packs Using Force and Gas Sensors|[Link](https://arxiv.org/pdf/2010.13519.pdf)|10
 |State-of-Charge Estimation of a Li-Ion Battery using Deep Forward Neural Networks|[Link](https://arxiv.org/abs/2009.09543)|10
 |Safe Reinforcement Learning for Emergency LoadShedding of Power Systems|[Link](https://arxiv.org/abs/2011.09664)|0
@@ -22,3 +22,4 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Vulnerability of deep neural networks for detecting COVID-19 cases from chest X-ray images to universal adversarial attacks|[Link](https://arxiv.org/ftp/arxiv/papers/2005/2005.11061.pdf)|10
 |Adaptive controller design for electric drive with variable parameters
 by Reinforcement Learning method|[Link](https://journals.pan.pl/Content/117700/PDF/07_D1019-1030_01572_Bpast.No.68-5_30.10.20_.pdf)|0
+Multi-Feature Semi-Supervised Learning for COVID-19 Diagnosis from Chest X-ray Images|[Link](https://arxiv.org/pdf/2104.01617.pdf)|10

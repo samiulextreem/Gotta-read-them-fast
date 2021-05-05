@@ -22,3 +22,4 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Vulnerability of deep neural networks for detecting COVID-19 cases from chest X-ray images to universal adversarial attacks|[Link](https://arxiv.org/ftp/arxiv/papers/2005/2005.11061.pdf)|10
 |Adaptive controller design for electric drive with variable parametersby Reinforcement Learning method|[Link](https://journals.pan.pl/Content/117700/PDF/07_D1019-1030_01572_Bpast.No.68-5_30.10.20_.pdf)|0
 Multi-Feature Semi-Supervised Learning for COVID-19 Diagnosis from Chest X-ray Images|[Link](https://arxiv.org/pdf/2104.01617.pdf)|10
+A Deep Q-Learning Direct Torque Controller for Permanent Magnet Synchronous Motors|[Link](https://ieeexplore.ieee.org/abstract/document/9416143)|0

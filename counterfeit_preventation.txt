@@ -1,0 +1,1 @@
+you scan bar code and it goes to a webpage which show a number which must match with the number shown on the product. it will prevent counterfeit product.

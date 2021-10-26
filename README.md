@@ -26,4 +26,4 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Robotic Kiwifruit Harvesting using Machine Vision, Convolutional Neural Networks, and Robotic Arms|[Link](https://researchcommons.waikato.ac.nz/bitstream/10289/13355/111/Robotic%20kiwifruit%20harvesting%20using%20machine%20vision%2C%20convolutional%20neural%20networks%2C%20and%20robotic%20arms.pdf)|10
 |Improvements to and large‐scale evaluation of a robotic kiwifruit harvester|[Link](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21890)|0
 |Autonomous pollination of individual kiwifruit flowers: Toward a robotic kiwifruit pollinator|[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gG-B-5kAAAAJ&citation_for_view=gG-B-5kAAAAJ:u5HHmVD_uO8C)|8
-|Overview of Sensor Technologies Used for 3D Localization of Asparagus Spears for Robotic Harvesting|[Link](https://www.scientific.net/AMM.884.77)|0
+|Overview of Sensor Technologies Used for 3D Localization of Asparagus Spears for Robotic Harvesting|[Link](https://www.scientific.net/AMM.884.77)|10

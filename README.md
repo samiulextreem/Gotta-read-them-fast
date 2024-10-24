@@ -17,6 +17,7 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Online Tuning of a PID Controller with a Fuzzy Reinforcement Learning MAS for Flow Rate Control of a Desalination Unit|[Link](https://res.mdpi.com/d_attachment/electronics/electronics-08-00231/article_deploy/electronics-08-00231.pdf)|10
 |Optimizing PID parameters with machine learning|[Link](https://arxiv.org/pdf/1709.09227.pdf)|10
 |Design and application of adaptive PID controller based on asynchronous advantage actor–critic learning method|[Link](https://link.springer.com/article/10.1007/s11276-019-02225-x)|0
+
 |Reinforcement Learning and Deep Neural Networks for PI Controller Tuning|[Link](https://www.sciencedirect.com/science/article/pii/S2405896319308055)|0
 |Embedded Adaptive Fuzzy Controller Based on Reinforcement Learning for DC Motor with Flexible Shaft|[Link](https://sci-hub.do/https://link.springer.com/article/10.1007/s13369-015-1752-4)|0
 |Vulnerability of deep neural networks for detecting COVID-19 cases from chest X-ray images to universal adversarial attacks|[Link](https://arxiv.org/ftp/arxiv/papers/2005/2005.11061.pdf)|10
@@ -29,3 +30,4 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Overview of Sensor Technologies Used for 3D Localization of Asparagus Spears for Robotic Harvesting|[Link](https://www.scientific.net/AMM.884.77)|10
 |Design of the speed controller for sensorless electric drives based on AI techniques: a comparative study| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0954181000000108) | 0
 |Grounding LLMs For Robot Task Planning UsingClosed-loop State Feedback| [Link](https://arxiv.org/abs/2402.08546) | 0
+|ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning| [Link](https://arxiv.org/abs/2406.19741) | 0

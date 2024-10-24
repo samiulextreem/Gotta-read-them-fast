@@ -29,3 +29,5 @@ Inspired by Dr. Andrew Ng's advice on [how to read research papers](https://yout
 |Overview of Sensor Technologies Used for 3D Localization of Asparagus Spears for Robotic Harvesting|[Link](https://www.scientific.net/AMM.884.77)|10
 |Design of the speed controller for sensorless electric drives based on AI techniques: a comparative study| [Link](https://www.sciencedirect.com/science/article/abs/pii/S0954181000000108) | 0
 
+|Grounding LLMs For Robot Task Planning Using
+Closed-loop State Feedback| [Link](https://arxiv.org/abs/2402.08546) | 0
